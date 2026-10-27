@@ -1,4 +1,4 @@
-# NFL Weather Pipeline (MSBA405)
+# NFL Weather Pipeline
 
 This repository contains the publishable code, SQL, bash orchestration, and documentation for the NFL weather analytics pipeline.
 
