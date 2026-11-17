@@ -74,3 +74,7 @@ Raw data acquisition and NOAA refresh are separate from the default v1 runner.
 - This repo intentionally excludes raw data, processed outputs, runtime logs, caches, and credentials.
 - GCS paths and contracts currently target `gs://msba405-nfl-weather-raw/`.
 - For portability, Snowflake readiness script supports overriding summary output path via `--summary-path`.
+
+---
+
+By [Jay Yu](https://jayyu.me/) · [Case study](https://jayyu.me/work/nfl-weather/)
